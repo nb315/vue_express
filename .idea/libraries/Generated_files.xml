@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/vue/util/util.js" />
+        <item url="file://$PROJECT_DIR$/dist/vue/config/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/vue/src/main.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/vue/util/util.js" />
+      <root url="file://$PROJECT_DIR$/dist/vue/config/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/vue/src/main.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
